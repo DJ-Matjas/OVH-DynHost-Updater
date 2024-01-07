@@ -1,5 +1,5 @@
 
-# OVH DynHost 
+# OVH DynHost Updater
 Easy and simple Windows bat tool (maybe works on linux) that updates IP to your OVH DynHost.
 # Installation
 1. Download the newest release
