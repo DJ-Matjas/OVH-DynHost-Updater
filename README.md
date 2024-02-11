@@ -1,6 +1,7 @@
 # OVH DynHost Updater
 Easy and simple Windows bat tool (maybe works on linux) that updates IP to your OVH DynHost.
 # Requirements
+1.  Google Chrome (doesn't works on other browsers)
 
 # Installation
 1. Download the newest release
